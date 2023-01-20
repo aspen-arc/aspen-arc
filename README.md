@@ -26,6 +26,8 @@
   
   <div id="aboutmeheader" align="center"  
   About Me :
+       </div>
+    
   <div id="aboutme" align="left">
   
   I am a random person learning how to code <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
