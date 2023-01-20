@@ -55,7 +55,7 @@
     
 ---
  <div id="other">
-### :computer: Other:    
+:computer: Other:    
     </div>
     
 <div id="gnomesetup" align="left">
