@@ -28,7 +28,7 @@
 
 - :seedling: Trying to learn Java and HTML.
 
-- <img src="http://www.osboxes.org/wp-content/uploads/photo-gallery/post_logos/Archlinux-logo.png" width="10"> I use arch btw.
+- <img src="http://www.osboxes.org/wp-content/uploads/photo-gallery/post_logos/Archlinux-logo.png" width="15"> I use arch btw.
       
 - :smiley: Pronouns: It/Aer
   </div>
