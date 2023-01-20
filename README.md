@@ -8,6 +8,8 @@
   </a>
   </div>
   
+  <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
+  
   <div id="heythere" align="center">
   <h1>
   hey there
@@ -22,8 +24,7 @@
 
 - :seedling: Tryin to learn Java and HTML.
 
-- <img src="http://www.osboxes.org/wp-content/uploads/photo-gallery/post_logos/Archlinux-logo.png" width="30"> I use arch btw.
+- <img src="http://www.osboxes.org/wp-content/uploads/photo-gallery/post_logos/Archlinux-logo.png" width="25"> I use arch btw.
       
 - :smiley: Pronouns: It/Aer
-
     
