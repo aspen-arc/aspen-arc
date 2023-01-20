@@ -3,8 +3,8 @@
 </div>
 
   <div id="badges" align="center">
-  <a href="https://www.youtube.com/channel/UCxhcLNKMy6WEiQyJg2bFctQ">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+   <a href="https://twitter.com/aspen_stacy">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   <a href="https://www.linkedin.com/in/aspen-stacy-1a689a262/"> 
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
