@@ -1,3 +1,9 @@
+<!DOCTYPE html>
+<html>
+<head>
+   <title> aspen-arch </title>
+</head>
+
 <div id="header" align="center">
   <img src="http://www.gifsde.com/uploads/4d9728_asciianimator_14.gif" width="200"/>
 </div>
