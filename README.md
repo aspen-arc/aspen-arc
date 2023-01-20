@@ -15,7 +15,7 @@
 </h1>
   
   <div id="aboutme" align="left">
-    <h1>
+    
   About Me :
   
   I am a random person learning how to code <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
@@ -23,6 +23,7 @@
 - :seedling: Tryin to learn Java and HTML.
 
 - <img src="http://www.osboxes.org/wp-content/uploads/photo-gallery/post_logos/Archlinux-logo.png" width="30"> I use arch btw.
-    </h1>
+      
+- :smiley: Pronouns: It/Aer
 
     
