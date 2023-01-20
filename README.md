@@ -26,7 +26,7 @@
   
   I am a random person learning how to code <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
-- :seedling: Tryin to learn Java and HTML.
+- :seedling: Trying to learn Java and HTML.
 
 - <img src="http://www.osboxes.org/wp-content/uploads/photo-gallery/post_logos/Archlinux-logo.png" width="25"> I use arch btw.
       
