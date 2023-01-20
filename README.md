@@ -53,9 +53,13 @@
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aspen-arch&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
     
+---
+ 
+<div id="gnomesetup" align="left">
 <details>
 <summary>My Arch Gnome setup</summary>
 <br>
-      <img src="https://github.com/aspen-arch/aspen-arch/blob/main/Screenshots/Screenshot%20from%202023-01-18%2020-15-22.png" width="500">
-      <img src="https://github.com/aspen-arch/aspen-arch/blob/main/Screenshots/Screenshot%20from%202023-01-18%2020-28-47.png" width="500">
+ <img src="https://github.com/aspen-arch/aspen-arch/blob/main/Screenshots/Screenshot%20from%202023-01-18%2020-15-22.png" width="500">
+ <img src="https://github.com/aspen-arch/aspen-arch/blob/main/Screenshots/Screenshot%20from%202023-01-18%2020-28-47.png" width="500">
 </details>
+    </div>
