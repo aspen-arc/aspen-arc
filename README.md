@@ -14,6 +14,10 @@
   <img src="https://komarev.com/ghpvc/?username=aspen-arch&style=flat-square&color=blue" alt=""/>
   </div>
   
+      <div id="support me" align="center">
+<p><a href="https://www.buymeacoffee.com/aspenstacy"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="aspenstacy" /></a></p><br><br>
+    </div>
+  
   <div id="heythere" align="center">
   <h1>
   hey there
@@ -32,9 +36,6 @@
       
 - :smiley: Pronouns: It/Aer
   </div>
-    
-    <div id="support me" align="center">
-<p><a href="https://www.buymeacoffee.com/aspenstacy"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="aspenstacy" /></a></p><br><br>
     
     ---
 
