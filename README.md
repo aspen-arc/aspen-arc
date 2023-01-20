@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-   <title> aspen-arch </title>
+ <title> aspen-arch </title>
 </head>
 
 <div id="header" align="center">
