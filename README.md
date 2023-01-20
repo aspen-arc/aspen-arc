@@ -35,10 +35,10 @@
 
 ### :hammer_and_wrench: Languages and Tools :
     <div>
-      https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg
-      https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg
-      https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg
-      https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg
+      <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
+      <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg">
+      <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg">
+      <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">               
   </div>
   
     
