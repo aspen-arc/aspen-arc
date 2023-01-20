@@ -20,13 +20,13 @@
   
   <div id="heythere" align="center">
   <h1>
-  hey there
+  Hey there!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
   
-  <div id="aboutme" align="left">
-    
+  <div id="aboutmeheader" align="center"  
   About Me :
+  <div id="aboutme" align="left">
   
   I am a random person learning how to code <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
