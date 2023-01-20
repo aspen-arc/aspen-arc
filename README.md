@@ -40,7 +40,8 @@
       <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="30">
       <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" width="30">
       <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg" width="30">
-      <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="30">               
+      <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="30">
+      <img src="https://cdn0.iconfinder.com/data/icons/social-network-9/50/22-1024.png" width="30">
   </div>
   
   ---
