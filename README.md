@@ -55,6 +55,8 @@
     
 ---
  
+### :computer: Other:    
+    
 <div id="gnomesetup" align="left">
 <details>
 <summary>My Arch Gnome setup</summary>
