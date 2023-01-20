@@ -28,11 +28,13 @@
   
   I am a random person learning how to code <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
-- :seedling: Trying to learn Java and HTML.
+- :seedling: Trying to learn HTML.
 
 - <img src="http://www.osboxes.org/wp-content/uploads/photo-gallery/post_logos/Archlinux-logo.png" width="15"> I use arch btw.
       
 - :smiley: Pronouns: It/Aer
+
+- :zap: Funfact I'm a furry 
   </div>
     
     ---
@@ -40,7 +42,6 @@
 ### :hammer_and_wrench: Languages and Tools: 
   <div>
       <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="30">
-      <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" width="30">
       <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg" width="30">
       <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="30">
       <img src="https://cdn0.iconfinder.com/data/icons/social-network-9/50/22-1024.png" width="35">
