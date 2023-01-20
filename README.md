@@ -10,6 +10,7 @@
   
   <div align="center">
   <img src="https://komarev.com/ghpvc/?username=aspen-arch&style=flat-square&color=blue" alt=""/>
+  </div>
   
   <div id="heythere" align="center">
   <h1>
@@ -28,4 +29,16 @@
 - <img src="http://www.osboxes.org/wp-content/uploads/photo-gallery/post_logos/Archlinux-logo.png" width="25"> I use arch btw.
       
 - :smiley: Pronouns: It/Aer
+  </div>
+    
+    ---
+
+### :hammer_and_wrench: Languages and Tools :
+    <div>
+      https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg
+      https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg
+      https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg
+      https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg
+  </div>
+  
     
