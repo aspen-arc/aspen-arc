@@ -34,7 +34,7 @@
       
 - :smiley: Pronouns: It/Aer
 
-- :zap: Funfact I'm a furry 
+- :zap: Funfact I have an html version of this readme right <font color="cyan"><a href="https://aspen-arch.github.io/aspen-arch/"> here</font>
   </div>
     
     ---
