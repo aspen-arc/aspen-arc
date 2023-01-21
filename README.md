@@ -34,7 +34,7 @@
       
 - :smiley: Pronouns: It/Aer
 
-- :zap: Funfact I have an HTML version of this README right <font color="cyan"><a href="https://aspen-arch.github.io/aspen-arch/"> here.</font>
+- :zap: Funfact I have an HTML version of this README right <font color="cyan"><a href="https://aspen-arch.github.io/aspen-arch/"> here</font>.
   </div>
     
     ---
