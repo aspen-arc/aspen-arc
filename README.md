@@ -42,7 +42,7 @@
 ### :hammer_and_wrench: Languages and Tools: 
   <div>
       <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="30">
-      <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg" width="30">
+      <img src="https://user-images.githubusercontent.com/674621/71187801-14e60a80-2280-11ea-94c9-e56576f76baf.png" width="30">
       <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="30">
       <img src="https://cdn0.iconfinder.com/data/icons/social-network-9/50/22-1024.png" width="35">
   </div>
