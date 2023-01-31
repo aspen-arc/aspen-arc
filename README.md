@@ -6,14 +6,6 @@
   <img src="https://komarev.com/ghpvc/?username=aspen-arch&style=flat-square&color=blue" alt=""/>
   </div>
   
-  <div id="badges" align="center">
-   <a href="https://twitter.com/aspen_stacy">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  <a href="https://www.linkedin.com/in/aspen-stacy-1a689a262/"> 
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  </div>
-  
   <div id="support me" align="center">
 <p><a href="https://www.buymeacoffee.com/aspenstacy0"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="aspenstacy" /></a></p><br><br>
     </div>
