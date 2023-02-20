@@ -22,7 +22,7 @@
 
 - :seedling: Currently learning python and lua.
 
-- <img src="http://www.osboxes.org/wp-content/uploads/photo-gallery/post_logos/Archlinux-logo.png" width="15"> I use arch btw (more specificly artix).
+- I use Mac OS (I recently switched from linux to Mac OS Big Sur (Mac OS 11)).
       
 - :smiley: Pronouns: It/Aer
 
