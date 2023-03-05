@@ -22,7 +22,7 @@
 
 - :seedling: Currently learning python and lua.
 
-- :apple: I use Mac OS (I recently switched from linux to Mac OS Big Sur (Mac OS 11)).
+- :apple: I use Mac OS Monterey (I hate Ventura).
       
 - :smiley: Pronouns: It/Aer
 
