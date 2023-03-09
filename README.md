@@ -18,7 +18,7 @@
 
 - :seedling: Currently learning python and lua.
 
-- :zap: Funfact I use nushell</font>.
+- :zap: Funfact I use nushell!</font>.
   </div>
   
     ---
