@@ -18,11 +18,7 @@
 
 - :seedling: Currently learning python and lua.
 
-- :apple: I use Mac OS Monterey (I hate Ventura).
-      
-- :smiley: Pronouns: It/Aer
-
-- :zap: Funfact Im a furry</font>.
+- :zap: Funfact I use nushell</font>.
   </div>
   
     ---
