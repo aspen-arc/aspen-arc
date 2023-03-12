@@ -16,9 +16,7 @@
   
   I am a random person learning how to code <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
-- :seedling: Currently learning python and lua.
-
-- :zap: Funfact I use nushell.</font>
+- :seedling: Currently learning python and lua.</font>
   </div>
   
     ---
