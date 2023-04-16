@@ -16,7 +16,7 @@
   
   I am a random person learning how to code <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
-- :seedling: Currently learning python and lua.</font>
+- :seedling: Currently learning Rust.</font>
   </div>
   
     ---
@@ -24,7 +24,7 @@
 ### :hammer_and_wrench: Languages and Tools: 
   <div>
       <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="30">
-      <img src="https://github.com/devicons/devicon/blob/master/icons/lua/lua-plain.svg" width="30">
+      <img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-plain.svg" width="30">
       <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-plain.svg" width="30">
   </div>
   
