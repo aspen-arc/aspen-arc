@@ -14,9 +14,10 @@
     
   <div id="aboutme" align="left">
   
-  I am a random person learning how to code <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+  I am a random person <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
-- :seedling: Currently learning Rust.</font>
+- :seedling: Currently learning Rust.
+- :rainbow_flag: Im not straight.</font>
   </div>
   
     ---
