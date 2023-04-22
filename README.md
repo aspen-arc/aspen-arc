@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="http://www.gifsde.com/uploads/4d9728_asciianimator_14.gif" width="200"/>
+  <img src="https://i.giphy.com/media/efHwZH4DeN9ss/giphy.webp" width="200"/>
 </div>
 
 <div align="center">
