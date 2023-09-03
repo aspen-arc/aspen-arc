@@ -16,7 +16,6 @@
   
   I am a random person <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
-- :seedling: Currently learning Rust.
 - :rainbow_flag: Im not straight.</font>
   </div>
   
